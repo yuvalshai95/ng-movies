@@ -79,7 +79,9 @@
 
       .description {
         font-size: 1.2rem;
-        line-height: 1.6;
+        overflow: hidden;
+        max-height: 205px;
+        line-height: 1.5em;
       }
     }
   }
